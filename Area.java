@@ -12,6 +12,6 @@ class Area
 		
 		float area= pi*(r*r);
 
-		System.out.println("Area of Circle for radious" +r+ "cm" + "is" + area + "cm.square");
+		System.out.println("Area of Circle for radius" +r+ "cm" + "is" + area + "cm.square");
 	}
 }
